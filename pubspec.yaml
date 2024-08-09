@@ -1,7 +1,8 @@
 name: bitlocker
-description: A new Flutter project.
-version: 0.0.1
-homepage:
+description: A Flutter plugin to manage BitLocker drive encryption on Windows platforms.
+version: 1.0.0
+repository: https://github.com/Dream-Orbit/bitlocker_flutter.git
+homepage: https://www.dreamorbit.com
 
 environment:
   sdk: '>=3.1.3 <4.0.0'
